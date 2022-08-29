@@ -172,11 +172,11 @@ Now create the task definition.
 ## Creating a service
 
 Next you create your service. Go to ECS Cluster and select the cluster.
-Then create a service. 
-Select Fargate. 
-Select your task definition.
-Select the cluster
-Set number of tasks to 1.
+* Then create a service. 
+* Select Fargate. 
+* Select your task definition.
+* Select the cluster
+* Set number of tasks to 1.
 
 Go to next step.
 Select Cluster VPC and Subnet.
